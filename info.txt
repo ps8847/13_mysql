@@ -1,0 +1,13 @@
+we will study sql throw 
+mysql (xaamp)
+
+
+
+we will do :-
+1. data types
+2. crud 
+3. refining data
+4. logical opertions
+5. aggregate functions
+6. pri/for key
+7. joins
